@@ -83,7 +83,7 @@ Checklist for when a Joomla! website goes live:
 ## Extras
 * Google Analytics setup?
 * Watchful.li setup? ([Watchful.li](https://watchful.li/))
-* myJoomla audit done? ([{manage}.myJoomla.com](https://myjoomla.com/))
+* mySites.guru audit done? ([mySites.guru](https://mySites.guru/))
 * Joomla Update Notification plugin published/unpublished?
 * Is there a backup scheme?
 * Backup AND restore tested?

@@ -83,7 +83,7 @@ Checklist ter controle voor livegang van een nieuwe Joomla! website:
 ## Diversen
 * Google Analytics ingesteld?
 * Watchful.li ingesteld? ([Watchful.li](https://watchful.li/))
-* myJoomla audit gedaan? ([{manage}.myJoomla.com](https://myjoomla.com/))
+* mySites.guru audit gedaan? ([mySites.guru](https://mySites.guru/))
 * Joomla Updatemelding plugin gepubliceerd/gedepubliceerd?
 * Backupschema actief?
 * Backup EN restore getest?
